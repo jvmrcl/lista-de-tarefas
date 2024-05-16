@@ -27,8 +27,8 @@ O padrão "Container and Presentation" é uma abordagem arquitetural comumente u
 
 Antes de começar, certifique-se de ter o Node.js e o Git instalados em sua máquina.
 
-1. **Node.js:** Você pode baixar e instalar o Node.js a partir do [https://nodejs.org/en](site oficial). Siga as instruções de instalação adequadas para o seu sistema operacional.
-2. **Git**: Git: Se você ainda não tem o Git instalado, você pode baixá-lo e instalá-lo a partir do [https://git-scm.com/](site oficial do Git). Novamente, siga as instruções de instalação para o seu sistema operacional.
+1. **Node.js:** Você pode baixar e instalar o Node.js a partir do [site oficial](https://nodejs.org/en). Siga as instruções de instalação adequadas para o seu sistema operacional.
+2. **Git**: Git: Se você ainda não tem o Git instalado, você pode baixá-lo e instalá-lo a partir do [site oficial do Git](https://git-scm.com). Novamente, siga as instruções de instalação para o seu sistema operacional.
 
 Com o Node.js e o Git instalados, siga as etapas abaixo para configurar e executar o projeto:
 
@@ -51,5 +51,5 @@ Se tudo estiver configurado corretamente, você verá a página inicial do proje
 
 Para saber mais sobre as tecnologias utilizadas neste projeto, você pode acessar os seguintes links:
 
-- **React:** O React é uma biblioteca JavaScript para a construção de interfaces de usuário. Para obter mais informações e recursos, visite o [https://react.dev/](site oficial do React).
-- **Material UI:** O Material UI é uma biblioteca de componentes React que implementa o design de materiais do Google. Para explorar os componentes disponíveis e aprender como usá-los em seus próprios projetos, visite o [https://mui.com/material-ui/](site oficial do Material UI).
+- **React:** O React é uma biblioteca JavaScript para a construção de interfaces de usuário. Para obter mais informações e recursos, visite o [site oficial do React](https://react.dev/).
+- **Material UI:** O Material UI é uma biblioteca de componentes React que implementa o design de materiais do Google. Para explorar os componentes disponíveis e aprender como usá-los em seus próprios projetos, visite o [site oficial do Material UI](https://mui.com/material-ui/).
